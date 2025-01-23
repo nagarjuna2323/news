@@ -1,4 +1,4 @@
-package hottopic
+package hotTopic
 
 import "fmt"
 
